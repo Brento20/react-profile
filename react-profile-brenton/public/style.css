@@ -1,0 +1,36 @@
+img {
+    margin: 5px;
+}
+
+body {
+    text-align: center;
+}
+
+html{
+    display: flex;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(58, 58, 58);
+    color: white;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+footer {
+    position: fixed;
+    padding:15px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(58, 58, 58);
+    color: white;
+    text-align: center;
+    font-weight: 100;
+}
+
+#projectBox text{
+    text-align: left;
+}
