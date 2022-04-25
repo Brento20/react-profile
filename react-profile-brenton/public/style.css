@@ -6,9 +6,7 @@ body {
     text-align: center;
 }
 
-html{
-    display: flex;
-}
+
 
 .header {
     padding: 30px;
@@ -29,8 +27,5 @@ footer {
     color: white;
     text-align: center;
     font-weight: 100;
-}
-
-#projectBox text{
-    text-align: left;
+    font-size: 12px;
 }
