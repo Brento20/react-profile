@@ -1,7 +1,7 @@
 # 20 React JS: Updated Portfolio
 **Deployed link: **
 
-**GitHub Repo Link: **
+**GitHub Repo Link: https://github.com/Brento20/react-profile**
 
 ## User Story
 
@@ -39,14 +39,7 @@ SO THAT employers can see that I can do the things!
 4. Research NPM packages that can build the project faster/easier/better.
 5. Host on github and heroku.
 
-## Future improvements
-
-1. Use an API to feed in random quotes for each day
-2. Code in a clear button
-3. work on functionality to add full weeks and months.
-4. Add a toggle for light mode an dark mode with more customized CSS
-
 
 ## Image of application
 
-![Working application]()
+![Working application](application.png)
