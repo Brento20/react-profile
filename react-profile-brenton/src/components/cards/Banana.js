@@ -10,7 +10,7 @@ import BananaLogo from "../images/banana.png";
 
 export default function MediaCard() {
     return (
-        <Card sx={{ maxWidth: 345 }}>
+        <Card sx={{ maxWidth: 345, minWidth: 250}}>
         <CardMedia
             component="img"
             height="140"
@@ -21,7 +21,7 @@ export default function MediaCard() {
             <Typography gutterBottom variant="h5" component="div">
             BANANA FINDER
             </Typography>
-            <Typography variant="body2" color="text.secondary">
+            <Typography variant="body2" color="text.secondary" textAlign="justify">
             Banana Finder is the result of our first group project. Working with my class mates we wanted to create an application that solved the problem of ear worms, a song or lyric that gets stuck in your head but you cant remember the full song.
             </Typography>
         </CardContent>

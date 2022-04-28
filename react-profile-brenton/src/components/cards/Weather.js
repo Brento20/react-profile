@@ -10,7 +10,7 @@ import Logo from "../images/weather.png";
 
 export default function MediaCard() {
     return (
-        <Card sx={{ maxWidth: 345 }}>
+        <Card sx={{ maxWidth: 345, minWidth: 250}}>
         <CardMedia
             component="img"
             height="140"
@@ -21,7 +21,7 @@ export default function MediaCard() {
             <Typography gutterBottom variant="h5" component="div">
             Weather API
             </Typography>
-            <Typography variant="body2" color="text.secondary">
+            <Typography variant="body2" color="text.secondary" textAlign="justify">
             This application runs using JavaScript and the One-call Open Weather API.
 
 While putting this together I wanted to create a mobile style card that visually looked clean and simple, and gave the impression that it was a swipe-able widget.

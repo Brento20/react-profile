@@ -10,7 +10,7 @@ import ReVampLogo from "../images/revamp.png";
 
 export default function MediaCard() {
     return (
-        <Card sx={{ maxWidth: 345 }}>
+    <Card sx={{ maxWidth: 345, minWidth: 250}}>
         <CardMedia
             component="img"
             height="140"
@@ -21,7 +21,7 @@ export default function MediaCard() {
             <Typography gutterBottom variant="h5" component="div">
             RE:Vamp
             </Typography>
-            <Typography variant="body2" color="text.secondary">
+            <Typography variant="body2" color="text.secondary" textAlign="justify">
             RE:vamp was a group project that I was lucky enough to project manage, we focused on empowering our users to build, repair and improve everyday things in there lives. We used a combination of NPM packages to build the server side of this app including express.js and sequelize to manage our routes, handlebars to compile the templates and nodemailer to send confirmation emails when a user submits tips to the database.
             </Typography>
         </CardContent>

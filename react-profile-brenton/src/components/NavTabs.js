@@ -16,7 +16,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
           id="boldheader"
         >
-          HOME
+          RESUME
         </a>
       </li>
       <li className="nav-item">
