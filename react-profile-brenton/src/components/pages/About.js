@@ -3,7 +3,7 @@ import React from 'react';
 export default function About() {
   return (
     <div class="col-sm"> 
-    <h3 id="about_me">about me</h3>
+    <h2 id="about_me">about me</h2>
         <p>
             I’m Brenton, nice to meet ya! 
             

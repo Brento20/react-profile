@@ -13,9 +13,6 @@ export default function Contact() {
           <h3>Email: </h3>
           <input></input>
 
-          <h3>Password: </h3>
-          <input></input>
-
       </div>
   );
 }
