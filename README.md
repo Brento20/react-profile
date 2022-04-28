@@ -11,7 +11,12 @@ I WANT to show an interactive portfolio built using React.js
 SO THAT employers can see that I can do the things!
 ```
 
-## Installation 
+## Installation
+1. Download repo
+2. CD to repo location
+3. Run $ NPM install
+4. CD to react-profile-brenton
+5. Run $ NPM start
 
 ## Acceptance Criteria
 
@@ -21,14 +26,14 @@ SO THAT employers can see that I can do the things!
 |Is a single-page application | Done |
 |Page has a Header, content area and footer |Done|
 |Name is displayed and there is navigation |Done|
-|HAs titles like About me, portfolio, resume and contact |Done except for resume|
+|Has titles like About me, portfolio, resume and contact |Done|
 |Navigation docent refresh the page, but does display content |Done|
-|About Me title and section are selected by default | TBC |
+|About Me title and section are selected by default | Done |
 |recent photo or avatar of the developer and a short bio about them|Done|
-|images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories| 3 out of 6 done|
-|contact form with fields for a name, an email address, and a message| TBC |
-| Footer contains appropriate links and text |TBC|
-|Hosted on Heroku |TBC|
+|images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories| Chose to do 3, I could do 6 but I wanted to keep the quality high on the past work |
+|contact form with fields for a name, an email address, and a message| Done|
+| Footer contains appropriate links and text |Done|
+|Hosted on Heroku |Done|
 
 
 ## Logic Plan
