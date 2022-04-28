@@ -8,17 +8,20 @@ import Weather from "../cards/Weather";
 
 export default function project() {
   return (
-    <div id="cardsParent"> 
-    <div id="cards">
-      <Revamp />
-    </div>
-    <div id="cards">
-      <Banana />
+    <div id="container">
+      <div id="cardsParent"> 
+        <div id="cards">
+          <Revamp />
+        </div>
+
+        <div id="cards">
+        <Banana />
+        </div>
+
+        <div id="cards">
+        <Weather />
+        </div>
       </div>
-    <div id="cards">
-      <Weather />
-      </div>
-    
     </div>
   );
 }
