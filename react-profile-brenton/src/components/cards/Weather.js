@@ -28,8 +28,8 @@ While putting this together I wanted to create a mobile style card that visually
             </Typography>
         </CardContent>
         <CardActions>
-        <Button size="small"><a href='https://brento20.github.io/WeatherApp/'>VIEW LIVE</a></Button>
-            <Button size="small"><a href='https://github.com/Brento20/WeatherApp'>VIEW CODE</a></Button>
+        <Button size="small"><a href='https://brento20.github.io/WeatherApp/' target="_blank" rel="noopener noreferrer">VIEW LIVE</a></Button>
+            <Button size="small"><a href='https://github.com/Brento20/WeatherApp' target="_blank" rel="noopener noreferrer">VIEW CODE</a></Button>
         </CardActions>
         </Card>
     );

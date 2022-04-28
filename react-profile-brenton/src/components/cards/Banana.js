@@ -26,8 +26,8 @@ export default function MediaCard() {
             </Typography>
         </CardContent>
         <CardActions>
-            <Button size="small"><a href='https://fubzee.github.io/banana-finder/'>VIEW LIVE</a></Button>
-            <Button size="small"><a href='https://github.com/fubzee/banana-finder'>VIEW CODE</a></Button>
+            <Button size="small"><a href='https://fubzee.github.io/banana-finder/' target="_blank" rel="noopener noreferrer">VIEW LIVE</a></Button>
+            <Button size="small"><a href='https://github.com/fubzee/banana-finder' target="_blank" rel="noopener noreferrer">VIEW CODE</a></Button>
         </CardActions>
         </Card>
     );
