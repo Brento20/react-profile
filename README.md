@@ -1,5 +1,5 @@
 # 20 React JS: Updated Portfolio
-**Deployed link: **
+**Deployed link: https://steamedpotatos.herokuapp.com/**
 
 **GitHub Repo Link: https://github.com/Brento20/react-profile**
 
